@@ -4,4 +4,4 @@
 
 # https://pan.juhua.fun/
 
-# 个人网站发布页：https://ifwlzs.github.io/ss-show-ak
+# 个人网站发布页：https://ifwlzs.github.io/show-ss-ak
