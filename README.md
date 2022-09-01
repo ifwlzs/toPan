@@ -1,6 +1,8 @@
 # toPan
 
-# http://dioju.herokuapp.com/
+# ~~http://dioju.herokuapp.com/~~
+
+# https://separated-sprout-krill.glitch.me/
 
 # https://pan.juhua.fun/
 
