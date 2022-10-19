@@ -2,7 +2,9 @@
 
 # ~~http://dioju.herokuapp.com/~~
 
-# https://separated-sprout-krill.glitch.me/
+# ~~ https://separated-sprout-krill.glitch.me/ ~~
+
+# http://o.juhua.fun:5244/
 
 # https://pan.juhua.fun/
 
